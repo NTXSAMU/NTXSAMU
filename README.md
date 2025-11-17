@@ -10,9 +10,6 @@
 </div>
 
 
-from pypandoc import convert_text
-
-content = """# Estudio del Diagrama de Gantt – *IGNIS APP*
 
 ## Proyecto: InstitutoProyecto  
 ##  Aplicación: IGNIS APP  
